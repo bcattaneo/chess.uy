@@ -34,7 +34,7 @@ navigation:
     url: /community
   - text: Entradas
     url: /posts
-  - text: Jugar
+  - text: ♞ Jugar
     url: https://li.chess.uy
 
 # The shortname for your Disqus site to enable comments.

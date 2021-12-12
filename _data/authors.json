@@ -1,0 +1,16 @@
+{
+  "bruno": {
+    "name": "Bruno Cattáneo",
+    "bio": "Informático, músico y un nuevo aficionado del ajedrez.",
+    "url": "https://www.cattaneo.uy",
+    "location": "Montevideo, Uruguay",
+    "image": "images/autor-bruno.png"
+  },
+  "diego": {
+    "name": "Diego Vázquez",
+    "bio": "DM (Delivery Manager) by day, DM (Dungeon Master) by night",
+    "url": "https://www.goblinboxgames.com",
+    "location": "Montevideo, Uruguay",
+    "image": "images/autor-diego.jpg"
+  }
+}
