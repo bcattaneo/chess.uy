@@ -31,9 +31,9 @@ navigation:
   - text: Inicio
     url: /
   - text: Comunidad
-    url: /community/
+    url: /community
   - text: Entradas
-    url: /posts/
+    url: /posts
   - text: Jugar
     url: https://li.chess.uy
 
