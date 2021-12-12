@@ -1,0 +1,72 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site language
+lang: es-UY
+
+# Site title
+title: "Chess 🇺🇾"
+
+# A description of your site for meta tag, search engine results.
+description: "De pocas partidas he aprendido tanto como de la mayoría de mis derrotas.<br><i>—J.R. Capablanca<i>"
+
+# The subpath of your site, e.g. /blog, for generating urls.
+baseurl: ""
+
+# The base hostname & protocol of your site for where absolute urls are needed.
+url: "https://chess.uy"
+
+# Favicon
+favicon: images/favicon.ico
+
+# Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: ""
+
+# Site navigation - each item must have a title and a url.
+navigation:
+  - text: Inicio
+    url: /
+  - text: Comunidad
+    url: /community
+  - text: Entradas
+    url: /posts
+  - text: Jugar
+    url: https://li.chess.uy
+
+# The shortname for your Disqus site to enable comments.
+disqus: chessuruguay
+
+# Colors
+accent_color: '#2d72d9'
+
+# Site footer
+footer:
+  content: "&copy; Chess.uy, todos los derechos reservados. Tema por [JustGoodThemes](https://www.justgoodthemes.com), traducido y modificado por [Bruno Cattáneo](https://www.cattaneo.uy)."
+  has_social: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 3
+paginate_path: '/page:num/'
+
+
+# Permalinks
+permalink: /:title
+
+# Conversion
+markdown: kramdown
+
+# Theme
+remote_theme: bcattaneo/Scriptor-Jekyll-Theme
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed

@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/ChessUruguay"
+    },
+    {
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/bcattaneo/chess.uy"
+    },
+    {
+      "title": "YouTube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/"
+    }
+  ]
+}
