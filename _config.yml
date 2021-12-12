@@ -63,6 +63,9 @@ permalink: /:title
 # Conversion
 markdown: kramdown
 
+# Theme
+remote_theme: bcattaneo/Scriptor-Jekyll-Theme
+
 # Sass
 sass:
   sass_dir: _sass
