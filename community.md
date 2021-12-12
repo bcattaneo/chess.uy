@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comunidad
-description: An optional about page for Scriptor Jekyll theme
+description: Información sobre la comunidad
 # feature_image: images/about.jpg
 ---
 

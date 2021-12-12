@@ -1,5 +1,5 @@
 ---
 layout: posts
 title: Entradas
-description: A tags page for Scriptor Jekyll theme
+description: Entradas del blog agrupadas por etiquetas
 ---
